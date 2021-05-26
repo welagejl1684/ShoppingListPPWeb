@@ -1,2 +1,3 @@
 # ShoppingListPPWeb
-Web application for ShoppingListPPWeb
+Web application for ShoppingList++.
+
